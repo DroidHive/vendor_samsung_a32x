@@ -1,1 +1,0 @@
-# vendor-samsung-a32x
